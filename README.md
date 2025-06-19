@@ -6,7 +6,7 @@ In the future it could be extended with other functionality such as rate limitin
 
 ## Explore the API
 
-Visit https://localhost:5001/swagger to explore the API.
+Visit http://localhost:5014/swagger/index.html to explore the API.
 
 ## Endpoints
 

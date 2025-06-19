@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rdl1JqcvQiYqGDFAXFdDazNVNDYrF4q1tNx2jjQxx28=",
+  "Source": "demo-backend",
+  "BasePath": "_content/demo-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
